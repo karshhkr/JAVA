@@ -1,0 +1,26 @@
+In this we would be learning about Unit Testing4
+ where we would learn about the testing hwo the chuncks and the whole method or a class  are beeen tested by the Test Enginners/Testers
+
+1.write the test 
+ 2.based on test we develop some specific test 
+ 3.and on that run test passing or not on that thsi unit we be develop or not develop and according to it  modification on that instances
+
+
+
+ Unit Testing :- testing is logic is justifed or  not
+ testing  specific unit of code independentely
+
+  Integration testing :- is said to be an testing where we test whole class  whole unit is been tested 
+
+   adv of unit tetsing:- 
+   1. bugs are find at early test in code in development and easy to solve
+   2. fix the bug easily in early stage reduce time complexity and cost
+   
+    How to perform unit testing :-
+
+    JUNIT:- is library /framework for unittesting most popular one 
+    .Imp version is 4 and 5 JUNIT version 
+
+    Mockito :- mocking frame work
+    uses of it :- repositorty is created interact with db if you wanat to check if you dont have db 
+    it create the repository  copy to check the logic and check the service
