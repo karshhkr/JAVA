@@ -1,0 +1,19 @@
+ Type 1. Normal / Regular Interface
+Sirf abstract methods + constants hoti hain.
+Java 7 tak sirf ye allowed tha.
+ Having Two or more methods if Normal 
+
+
+
+
+  Type 2. FunctionalSAM(single abstract method) Interface
+  Sirf 1 abstract method hota hai.
+Java 8 feature → Lambda expressions ke liye use hota hai.
+Annotation: @FunctionalInterface
+
+
+
+Type 3. Marker Interface
+No methods inside.
+Use → Compiler ko signal dene ke liye ya runtime me JVM behavior change karne ke liye.
+Example: Serializable, Cloneable, Remote

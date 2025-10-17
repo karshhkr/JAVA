@@ -1,0 +1,7 @@
+java uses the camel casing 
+// camel casing b/c its goes up and down like small letter to cap letter
+. Class and interface - Calc ,Runable
+. variable and methods - ex-marks , shows
+. constants - PIE , BRAND
+
+// showMyMarks(  )

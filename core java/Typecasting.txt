@@ -1,0 +1,3 @@
+ double d=4.5;
+  int i =(int )d;    // we use typecasting to change the type double to int
+                    //but doing so it loose some data

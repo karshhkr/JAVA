@@ -1,0 +1,65 @@
+testing vs Unit testing:-
+testing something done of application 
+ testing:- test enginner/ tester  
+ unit testing:- only  SDE is doing it who write the code for the application
+
+ sdlc :-
+ 1. design the application
+ 2. write the code 
+ 3. testing the application by test enginners
+
+    * its the done post development
+
+
+ *1.write the test 
+ 2.based on test we develop some specific test 
+ 3.and on that run test passing or not on that thsi unit we be develop or not develop and according to it  modification on that instancest 
+
+ 1.write the test 
+ 2.based on test we develop some specific test 
+ 3.and on that run test passing or not on that thsi unit we be develop or not develop and according to it  modification on that instances
+
+
+
+ Unit Testing :- testing is logic is justifed or  not
+ testing  specific unit of code independentely
+
+  Integration testing :- is said to be an testing where we test whole class  whole unit is been tested 
+
+   adv of unit tetsing:- 
+   1. bugs are find at early test in code in development and easy to solve
+   2. fix the bug easily in early stage reduce time complexity and cost
+   
+    How to perform unit testing :-
+
+    JUNIT:- is library /framework for unittesting most popular one 
+    .Imp version is 4 and 5 JUNIT version 
+
+    Mockito :- mocking frame work
+    uses of it :- repositorty is created interact with db if you wanat to check if you dont have db 
+    it create the repository  copy to check the logic and check the service
+
+     junit Archutecture:- 
+
+     Junit4 + new features  is not  jUnit5
+{
+Junit platform:-
+        Test engine API 
+      responsible for launching testing framework on JVM
+
+
+     Jupiter API == is been used towrite the test and then platform will be use to run the test 
+      
+      Junit Jupiter:-
+      new annotarion are there 
+      new  progamming and extection model are there 
+      test engine implementation 
+
+
+    JUnit5  == Junit Unit4 is not provide backward functionaloty it works as it need an API (Vintage) to perforn the exixting  test to be perform with Junit5and then ru the tst over the platform
+
+    Juit Vintage:-
+    provide 3-4 junit backend compatibility
+
+}
+ This all make Junit5 implementations
