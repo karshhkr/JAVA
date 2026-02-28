@@ -174,7 +174,7 @@ After completing this repository, I gained:
 
 ## 👨‍💻 Author
 
-**Utkarsh Kumar**  
+**Utkarsh Kumar Dabgarwal**  
 Aspiring Java Backend Engineer  
 Focused on mastering Java, Spring Boot, and scalable backend systems.
 
