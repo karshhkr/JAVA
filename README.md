@@ -1,4 +1,4 @@
-# ☕ Core Java & OOPs Practice Repository
+# Core Java & OOPs Practice Repository
 
 A structured collection of **Core Java programs and Object-Oriented Programming (OOP) concepts** implemented using Java.
 
@@ -6,7 +6,7 @@ This repository demonstrates strong foundational understanding of Java syntax, c
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This repository contains hands-on implementations of:
 
@@ -24,7 +24,7 @@ This project reflects strong Java core fundamentals required for backend develop
 
 ---
 
-## 🧠 Concepts Covered
+##. Concepts Covered
 
 ### 🔹 Java Basics
 - Hello World
@@ -55,32 +55,32 @@ This project reflects strong Java core fundamentals required for backend develop
 
 ### 🔹 OOP Principles
 
-#### 🧱 Encapsulation
+####  Encapsulation
 - Getter & Setter methods
 - Private fields
 - Access modifiers
 
-#### 🧬 Inheritance
+####  Inheritance
 - Base & Child classes
 - Method overriding
 
-#### 🔁 Polymorphism
+####  Polymorphism
 - Method Overloading
 - Method Overriding
 - Dynamic binding
 
-#### 🏗 Constructors
+#### Constructors
 - Default Constructor
 - Parameterized Constructor
 
-#### 📦 Abstraction
+####  Abstraction
 - Abstract classes
 - Interfaces
 - Functional Interfaces
 
 ---
 
-## ⚙️ Advanced Java Topics
+##  Advanced Java Topics
 
 - `final` keyword
 - `this` keyword
@@ -115,7 +115,7 @@ Each file focuses on one specific Java concept for clarity and structured learni
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Category | Technology |
 |----------|------------|
